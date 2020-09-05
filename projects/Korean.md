@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Korean.jpg
+image: images/Korean.png
 title: A Language Not For Programming
 permalink: projects/a-language-not-for-programming
 # All dates must be YYYY-MM-DD format!
