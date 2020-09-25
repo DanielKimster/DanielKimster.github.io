@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Learn The Rules Like A Pro
-date: 2020-09-10
+date: 2020-09-24
 labels:
   - Software Engineering
   - Learning
