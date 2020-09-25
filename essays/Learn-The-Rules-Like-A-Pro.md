@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: essay
 type: essay
 title: Learn The Rules Like A Pro
