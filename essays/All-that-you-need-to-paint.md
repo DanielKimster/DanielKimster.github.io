@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: essay
 type: essay
 title: All That You Need to Paint
