@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: essay
 type: essay
 title: A Well-Oiled Machine
