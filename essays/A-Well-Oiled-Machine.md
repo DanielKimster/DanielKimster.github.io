@@ -1,0 +1,17 @@
+---
+draft: true
+layout: essay
+type: essay
+title: A Well-Oiled Machine
+date: 2020-12-17
+labels:
+  - Software Engineering
+  - Learning
+  - User Interface Frameworks
+  - Open Source Software Development
+---
+
+<p> A good piece of software is like a reliable car. Ideally the manufacturer can create and control all of the pieces that go into making the car run smoothly, but that can become quite expensive. Similar to this process, software can be created from scratch, but more often then not, it is much more efficient to piece together different open source software or frameworks into creating a well-oiled machine that hums along without any issue.  Contrary to Dr. Frankenstein piecing things together to create a monster, with the right finesse, software engineering can allow one to create homogenous works of art. Even without creating every piece by yourself, there is much in the way of creative freedom when it comes to creating great software out of existing pieces.</p>
+<p> I often like to think of programming as a way to express myself through code, similar to how an artist creates paintings. Software engineering then would be like the process of creating a story through various paintings. In paintings however, you can't just copy and paste a tree (unless of course you're doing some digital artwork) and fix it up a bit like how you can with coding. One of the great aspects of coding is the use of open source software that might have pre-built code that you can adapt into your own program, similar to how I adapted a coding template for my projects in ICS 314. Open source software is software where the "source code" is available to the public, meaning anyone who can understand the code can take it and create something new out of it without having to worry about licensing or fees (though some of these developers ask that you give them accredidation or a commission if you are to use their code to make a profit). </p>
+<p> One type of software that is often open source is user interface frameworks. User interface frameworks are software packages that allow you to worry less about how to create user interfaceable windows, boxes, and buttons and gives you kits to work with with much of that implementable with way fewer lines of code. One of the best user interface frameworks that I've used is Semantic-React. It allows you to create dividers, grids, buttons, and other user interface element with simple markup language that is easily understandable even if you were to leave your code and come back to it years later. This made it especially easy to find syntax errors in my code, since you could easily spot where each element begins and ends. I could easily see this framework being used in the future for other web applications that I might develop. </p>
+<p> While a lot of things go into the software design process, these are just two of the many facets. Well-designed software will be able to utilize many of these facets efficiently to leverage the kind of power that makes the difference between a modern Tesla Cybertruck and 1970s Ford. Being able to keep up with the times requires research and development as well as a great deal of experimentation. As time goes on, this can become even simpler to implement, as is the case with more modern programming languages like Python and Ruby on Rails. I imagine there will come a time when we'll be able to simply think programs into existence instead of having to type out what we mean. </p>
